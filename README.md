@@ -1,1 +1,1 @@
-# This repo contains sppu practical dsa codes .
+This repo contains sppu practical dsa codes .
