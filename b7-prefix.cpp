@@ -1,9 +1,5 @@
 /*
-THIS CODE HAS BEEN TESTED AND IS FULLY OPERATIONAL.
-
 Problem Statement: Construct an expression tree from the given prefix expression eg. +--a*bc/def and traverse it using postordertraversal(non recursive) and then delete the entire tree.
-
-Code from DataStructuresAndAlgorithms (SPPU - Second Year - Computer Engineering - Content) repository on KSKA Git: https://git.kska.io/sppu-se-comp-content/DataStructuresAndAlgorithms/
 */
 
 // BEGINNING OF CODE
